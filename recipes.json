@@ -1,0 +1,1460 @@
+[
+  {
+    "title": "Paneer Butter Masala",
+    "image": "https://via.placeholder.com/400x200?text=Paneer+Butter+Masala",
+    "ingredients": [
+      "paneer",
+      "butter",
+      "tomato",
+      "cream",
+      "garam masala",
+      "ginger",
+      "garlic",
+      "onion",
+      "salt"
+    ],
+    "instructions": "Saut\u00e9 onion, garlic, and ginger. Add tomato puree and spices. Mix in cream and paneer. Simmer and serve."
+  },
+  {
+    "title": "Chole Bhature",
+    "image": "https://via.placeholder.com/400x200?text=Chole+Bhature",
+    "ingredients": [
+      "chickpeas",
+      "onion",
+      "tomato",
+      "ginger",
+      "garlic",
+      "chole masala",
+      "flour",
+      "yogurt",
+      "salt"
+    ],
+    "instructions": "Cook chickpeas with spices. Make dough with flour and yogurt. Deep fry bhature and serve with chole."
+  },
+  {
+    "title": "Masala Dosa",
+    "image": "https://via.placeholder.com/400x200?text=Masala+Dosa",
+    "ingredients": [
+      "rice",
+      "urad dal",
+      "potato",
+      "mustard seeds",
+      "curry leaves",
+      "onion",
+      "green chili",
+      "turmeric",
+      "salt"
+    ],
+    "instructions": "Ferment rice and dal batter. Cook potato masala. Make dosa on tawa, stuff with masala and fold."
+  },
+  {
+    "title": "Lauki Halwa",
+    "image": "https://via.placeholder.com/400x200?text=Lauki+Halwa",
+    "ingredients": [
+      "cream",
+      "green chili",
+      "bay leaf",
+      "red chili",
+      "black pepper"
+    ],
+    "instructions": "Cook lauki with cream, green chili, bay leaf, add spices, and simmer until done."
+  },
+  {
+    "title": "Urad Dal Kheer",
+    "image": "https://via.placeholder.com/400x200?text=Urad+Dal+Kheer",
+    "ingredients": [
+      "clove",
+      "rice",
+      "spinach",
+      "cream",
+      "green chili",
+      "butter",
+      "peas",
+      "mint"
+    ],
+    "instructions": "Cook urad dal with clove, rice, spinach, add spices, and simmer until done."
+  },
+  {
+    "title": "Urad Dal Curry",
+    "image": "https://via.placeholder.com/400x200?text=Urad+Dal+Curry",
+    "ingredients": [
+      "coriander",
+      "jeera",
+      "jaggery",
+      "mint",
+      "curry leaves",
+      "chicken",
+      "potato",
+      "bay leaf",
+      "besan"
+    ],
+    "instructions": "Cook urad dal with coriander, jeera, jaggery, add spices, and simmer until done."
+  },
+  {
+    "title": "Gajar Curry",
+    "image": "https://via.placeholder.com/400x200?text=Gajar+Curry",
+    "ingredients": [
+      "jaggery",
+      "wheat flour",
+      "black pepper",
+      "sugar",
+      "coriander",
+      "clove",
+      "spinach",
+      "jeera",
+      "potato",
+      "capsicum"
+    ],
+    "instructions": "Cook gajar with jaggery, wheat flour, black pepper, add spices, and simmer until done."
+  },
+  {
+    "title": "Lauki Gravy",
+    "image": "https://via.placeholder.com/400x200?text=Lauki+Gravy",
+    "ingredients": [
+      "coriander",
+      "mustard seeds",
+      "peas",
+      "mint",
+      "jeera",
+      "capsicum",
+      "chicken"
+    ],
+    "instructions": "Cook lauki with coriander, mustard seeds, peas, add spices, and simmer until done."
+  },
+  {
+    "title": "Bhindi Masala",
+    "image": "https://via.placeholder.com/400x200?text=Bhindi+Masala",
+    "ingredients": [
+      "cinnamon",
+      "jeera",
+      "peas",
+      "sugar",
+      "green chili",
+      "yogurt",
+      "rice",
+      "butter",
+      "mustard seeds"
+    ],
+    "instructions": "Cook bhindi with cinnamon, jeera, peas, add spices, and simmer until done."
+  },
+  {
+    "title": "Moong Dal Paratha",
+    "image": "https://via.placeholder.com/400x200?text=Moong+Dal+Paratha",
+    "ingredients": [
+      "jaggery",
+      "mustard seeds",
+      "tamarind",
+      "ginger",
+      "spinach",
+      "potato"
+    ],
+    "instructions": "Cook moong dal with jaggery, mustard seeds, tamarind, add spices, and simmer until done."
+  },
+  {
+    "title": "Palak Halwa",
+    "image": "https://via.placeholder.com/400x200?text=Palak+Halwa",
+    "ingredients": [
+      "jaggery",
+      "turmeric",
+      "bay leaf",
+      "coriander",
+      "green chili"
+    ],
+    "instructions": "Cook palak with jaggery, turmeric, bay leaf, add spices, and simmer until done."
+  },
+  {
+    "title": "Baingan Kofta",
+    "image": "https://via.placeholder.com/400x200?text=Baingan+Kofta",
+    "ingredients": [
+      "mustard seeds",
+      "potato",
+      "rice",
+      "mint",
+      "ginger",
+      "cauliflower"
+    ],
+    "instructions": "Cook baingan with mustard seeds, potato, rice, add spices, and simmer until done."
+  },
+  {
+    "title": "Bhindi Pakora",
+    "image": "https://via.placeholder.com/400x200?text=Bhindi+Pakora",
+    "ingredients": [
+      "cardamom",
+      "black pepper",
+      "onion",
+      "curry leaves",
+      "paneer",
+      "cauliflower",
+      "spinach"
+    ],
+    "instructions": "Cook bhindi with cardamom, black pepper, onion, add spices, and simmer until done."
+  },
+  {
+    "title": "Aloo Tadka Dal",
+    "image": "https://via.placeholder.com/400x200?text=Aloo+Tadka+Dal",
+    "ingredients": [
+      "curry leaves",
+      "butter",
+      "garlic",
+      "garam masala",
+      "amchur",
+      "curd",
+      "black pepper"
+    ],
+    "instructions": "Cook aloo with curry leaves, butter, garlic, add spices, and simmer until done."
+  },
+  {
+    "title": "Mutton Kofta",
+    "image": "https://via.placeholder.com/400x200?text=Mutton+Kofta",
+    "ingredients": [
+      "ginger",
+      "garlic",
+      "cardamom",
+      "cauliflower",
+      "ghee",
+      "red chili",
+      "potato"
+    ],
+    "instructions": "Cook mutton with ginger, garlic, cardamom, add spices, and simmer until done."
+  },
+  {
+    "title": "Chicken Raita",
+    "image": "https://via.placeholder.com/400x200?text=Chicken+Raita",
+    "ingredients": [
+      "black pepper",
+      "cauliflower",
+      "besan",
+      "cardamom",
+      "chicken"
+    ],
+    "instructions": "Cook chicken with black pepper, cauliflower, besan, add spices, and simmer until done."
+  },
+  {
+    "title": "Palak Kheer",
+    "image": "https://via.placeholder.com/400x200?text=Palak+Kheer",
+    "ingredients": [
+      "clove",
+      "egg",
+      "garam masala",
+      "garlic",
+      "turmeric"
+    ],
+    "instructions": "Cook palak with clove, egg, garam masala, add spices, and simmer until done."
+  },
+  {
+    "title": "Mutton Halwa",
+    "image": "https://via.placeholder.com/400x200?text=Mutton+Halwa",
+    "ingredients": [
+      "jeera",
+      "hing",
+      "chicken",
+      "black pepper",
+      "mint",
+      "bay leaf",
+      "mustard seeds",
+      "wheat flour"
+    ],
+    "instructions": "Cook mutton with jeera, hing, chicken, add spices, and simmer until done."
+  },
+  {
+    "title": "Toor Dal Gravy",
+    "image": "https://via.placeholder.com/400x200?text=Toor+Dal+Gravy",
+    "ingredients": [
+      "peas",
+      "capsicum",
+      "lemon",
+      "paneer",
+      "carrot"
+    ],
+    "instructions": "Cook toor dal with peas, capsicum, lemon, add spices, and simmer until done."
+  },
+  {
+    "title": "Methi Sabzi",
+    "image": "https://via.placeholder.com/400x200?text=Methi+Sabzi",
+    "ingredients": [
+      "turmeric",
+      "ginger",
+      "cinnamon",
+      "sugar",
+      "butter",
+      "jeera",
+      "clove",
+      "lemon",
+      "coriander"
+    ],
+    "instructions": "Cook methi with turmeric, ginger, cinnamon, add spices, and simmer until done."
+  },
+  {
+    "title": "Chana Chutney",
+    "image": "https://via.placeholder.com/400x200?text=Chana+Chutney",
+    "ingredients": [
+      "spinach",
+      "rice",
+      "cardamom",
+      "dal",
+      "amchur"
+    ],
+    "instructions": "Cook chana with spinach, rice, cardamom, add spices, and simmer until done."
+  },
+  {
+    "title": "Moong Dal Biryani",
+    "image": "https://via.placeholder.com/400x200?text=Moong+Dal+Biryani",
+    "ingredients": [
+      "ginger",
+      "kasuri methi",
+      "dal",
+      "curry leaves",
+      "yogurt",
+      "jaggery",
+      "paneer",
+      "chicken",
+      "clove",
+      "tamarind"
+    ],
+    "instructions": "Cook moong dal with ginger, kasuri methi, dal, add spices, and simmer until done."
+  },
+  {
+    "title": "Bhindi Kheer",
+    "image": "https://via.placeholder.com/400x200?text=Bhindi+Kheer",
+    "ingredients": [
+      "peas",
+      "tamarind",
+      "clove",
+      "capsicum",
+      "ghee",
+      "cream"
+    ],
+    "instructions": "Cook bhindi with peas, tamarind, clove, add spices, and simmer until done."
+  },
+  {
+    "title": "Aloo Paratha",
+    "image": "https://via.placeholder.com/400x200?text=Aloo+Paratha",
+    "ingredients": [
+      "butter",
+      "dal",
+      "jaggery",
+      "tamarind",
+      "onion",
+      "turmeric",
+      "amchur",
+      "black pepper"
+    ],
+    "instructions": "Cook aloo with butter, dal, jaggery, add spices, and simmer until done."
+  },
+  {
+    "title": "Lauki Tadka Dal",
+    "image": "https://via.placeholder.com/400x200?text=Lauki+Tadka+Dal",
+    "ingredients": [
+      "chicken",
+      "lemon",
+      "onion",
+      "sugar",
+      "curry leaves",
+      "garam masala"
+    ],
+    "instructions": "Cook lauki with chicken, lemon, onion, add spices, and simmer until done."
+  },
+  {
+    "title": "Gajar Kofta",
+    "image": "https://via.placeholder.com/400x200?text=Gajar+Kofta",
+    "ingredients": [
+      "garlic",
+      "hing",
+      "mint",
+      "cauliflower",
+      "turmeric",
+      "lemon"
+    ],
+    "instructions": "Cook gajar with garlic, hing, mint, add spices, and simmer until done."
+  },
+  {
+    "title": "Bhindi Gravy",
+    "image": "https://via.placeholder.com/400x200?text=Bhindi+Gravy",
+    "ingredients": [
+      "onion",
+      "butter",
+      "garlic",
+      "jaggery",
+      "amchur",
+      "salt",
+      "turmeric",
+      "curry leaves",
+      "clove",
+      "sugar"
+    ],
+    "instructions": "Cook bhindi with onion, butter, garlic, add spices, and simmer until done."
+  },
+  {
+    "title": "Gajar Halwa",
+    "image": "https://via.placeholder.com/400x200?text=Gajar+Halwa",
+    "ingredients": [
+      "peas",
+      "hing",
+      "mustard seeds",
+      "clove",
+      "cream",
+      "jaggery",
+      "bay leaf"
+    ],
+    "instructions": "Cook gajar with peas, hing, mustard seeds, add spices, and simmer until done."
+  },
+  {
+    "title": "Baingan Bhaji",
+    "image": "https://via.placeholder.com/400x200?text=Baingan+Bhaji",
+    "ingredients": [
+      "yogurt",
+      "spinach",
+      "kasuri methi",
+      "rice",
+      "tomato",
+      "hing"
+    ],
+    "instructions": "Cook baingan with yogurt, spinach, kasuri methi, add spices, and simmer until done."
+  },
+  {
+    "title": "Gajar Pakora",
+    "image": "https://via.placeholder.com/400x200?text=Gajar+Pakora",
+    "ingredients": [
+      "cream",
+      "carrot",
+      "red chili",
+      "cauliflower",
+      "capsicum",
+      "coriander",
+      "mustard seeds",
+      "curry leaves"
+    ],
+    "instructions": "Cook gajar with cream, carrot, red chili, add spices, and simmer until done."
+  },
+  {
+    "title": "Methi Tadka Dal",
+    "image": "https://via.placeholder.com/400x200?text=Methi+Tadka+Dal",
+    "ingredients": [
+      "capsicum",
+      "cauliflower",
+      "cream",
+      "tamarind",
+      "garlic",
+      "wheat flour",
+      "salt",
+      "jeera",
+      "lemon"
+    ],
+    "instructions": "Cook methi with capsicum, cauliflower, cream, add spices, and simmer until done."
+  },
+  {
+    "title": "Chicken Kofta",
+    "image": "https://via.placeholder.com/400x200?text=Chicken+Kofta",
+    "ingredients": [
+      "cinnamon",
+      "cauliflower",
+      "turmeric",
+      "salt",
+      "mint",
+      "besan",
+      "ginger"
+    ],
+    "instructions": "Cook chicken with cinnamon, cauliflower, turmeric, add spices, and simmer until done."
+  },
+  {
+    "title": "Rajma Sabzi",
+    "image": "https://via.placeholder.com/400x200?text=Rajma+Sabzi",
+    "ingredients": [
+      "garam masala",
+      "paneer",
+      "wheat flour",
+      "spinach",
+      "red chili",
+      "rice",
+      "ghee"
+    ],
+    "instructions": "Cook rajma with garam masala, paneer, wheat flour, add spices, and simmer until done."
+  },
+  {
+    "title": "Aloo Biryani",
+    "image": "https://via.placeholder.com/400x200?text=Aloo+Biryani",
+    "ingredients": [
+      "bay leaf",
+      "besan",
+      "hing",
+      "peas",
+      "egg",
+      "jeera"
+    ],
+    "instructions": "Cook aloo with bay leaf, besan, hing, add spices, and simmer until done."
+  },
+  {
+    "title": "Bhindi Sabzi",
+    "image": "https://via.placeholder.com/400x200?text=Bhindi+Sabzi",
+    "ingredients": [
+      "sugar",
+      "wheat flour",
+      "spinach",
+      "tamarind",
+      "ghee",
+      "red chili",
+      "chicken",
+      "green chili"
+    ],
+    "instructions": "Cook bhindi with sugar, wheat flour, spinach, add spices, and simmer until done."
+  },
+  {
+    "title": "Mutton Tikka",
+    "image": "https://via.placeholder.com/400x200?text=Mutton+Tikka",
+    "ingredients": [
+      "carrot",
+      "garlic",
+      "curry leaves",
+      "onion",
+      "green chili",
+      "butter",
+      "jeera",
+      "black pepper",
+      "potato",
+      "mint"
+    ],
+    "instructions": "Cook mutton with carrot, garlic, curry leaves, add spices, and simmer until done."
+  },
+  {
+    "title": "Baingan Tadka Dal",
+    "image": "https://via.placeholder.com/400x200?text=Baingan+Tadka+Dal",
+    "ingredients": [
+      "tomato",
+      "jeera",
+      "salt",
+      "besan",
+      "peas",
+      "curry leaves",
+      "coriander"
+    ],
+    "instructions": "Cook baingan with tomato, jeera, salt, add spices, and simmer until done."
+  },
+  {
+    "title": "Chicken Kheer",
+    "image": "https://via.placeholder.com/400x200?text=Chicken+Kheer",
+    "ingredients": [
+      "coriander",
+      "tomato",
+      "curry leaves",
+      "green chili",
+      "clove",
+      "bay leaf",
+      "salt"
+    ],
+    "instructions": "Cook chicken with coriander, tomato, curry leaves, add spices, and simmer until done."
+  },
+  {
+    "title": "Rajma Bhaji",
+    "image": "https://via.placeholder.com/400x200?text=Rajma+Bhaji",
+    "ingredients": [
+      "mint",
+      "tomato",
+      "cauliflower",
+      "curry leaves",
+      "jaggery",
+      "yogurt",
+      "clove",
+      "red chili",
+      "bay leaf"
+    ],
+    "instructions": "Cook rajma with mint, tomato, cauliflower, add spices, and simmer until done."
+  },
+  {
+    "title": "Karela Pulao",
+    "image": "https://via.placeholder.com/400x200?text=Karela+Pulao",
+    "ingredients": [
+      "dal",
+      "sugar",
+      "jeera",
+      "potato",
+      "mustard seeds",
+      "yogurt",
+      "chicken",
+      "garam masala",
+      "egg",
+      "curry leaves"
+    ],
+    "instructions": "Cook karela with dal, sugar, jeera, add spices, and simmer until done."
+  },
+  {
+    "title": "Chana Tikka",
+    "image": "https://via.placeholder.com/400x200?text=Chana+Tikka",
+    "ingredients": [
+      "tomato",
+      "yogurt",
+      "spinach",
+      "cream",
+      "capsicum",
+      "carrot",
+      "coriander",
+      "red chili",
+      "dal",
+      "tamarind"
+    ],
+    "instructions": "Cook chana with tomato, yogurt, spinach, add spices, and simmer until done."
+  },
+  {
+    "title": "Rajma Gravy",
+    "image": "https://via.placeholder.com/400x200?text=Rajma+Gravy",
+    "ingredients": [
+      "hing",
+      "egg",
+      "potato",
+      "ginger",
+      "red chili",
+      "curd",
+      "cream",
+      "cauliflower"
+    ],
+    "instructions": "Cook rajma with hing, egg, potato, add spices, and simmer until done."
+  },
+  {
+    "title": "Moong Dal Curry",
+    "image": "https://via.placeholder.com/400x200?text=Moong+Dal+Curry",
+    "ingredients": [
+      "amchur",
+      "potato",
+      "yogurt",
+      "black pepper",
+      "hing",
+      "paneer",
+      "ginger"
+    ],
+    "instructions": "Cook moong dal with amchur, potato, yogurt, add spices, and simmer until done."
+  },
+  {
+    "title": "Paneer Fry",
+    "image": "https://via.placeholder.com/400x200?text=Paneer+Fry",
+    "ingredients": [
+      "red chili",
+      "clove",
+      "wheat flour",
+      "curry leaves",
+      "cardamom",
+      "tamarind",
+      "capsicum"
+    ],
+    "instructions": "Cook paneer with red chili, clove, wheat flour, add spices, and simmer until done."
+  },
+  {
+    "title": "Aloo Raita",
+    "image": "https://via.placeholder.com/400x200?text=Aloo+Raita",
+    "ingredients": [
+      "peas",
+      "onion",
+      "rice",
+      "red chili",
+      "spinach",
+      "hing",
+      "paneer",
+      "curd",
+      "ginger"
+    ],
+    "instructions": "Cook aloo with peas, onion, rice, add spices, and simmer until done."
+  },
+  {
+    "title": "Baingan Chutney",
+    "image": "https://via.placeholder.com/400x200?text=Baingan+Chutney",
+    "ingredients": [
+      "yogurt",
+      "ginger",
+      "sugar",
+      "hing",
+      "tomato",
+      "curd",
+      "egg",
+      "coriander"
+    ],
+    "instructions": "Cook baingan with yogurt, ginger, sugar, add spices, and simmer until done."
+  },
+  {
+    "title": "Methi Tikka",
+    "image": "https://via.placeholder.com/400x200?text=Methi+Tikka",
+    "ingredients": [
+      "chicken",
+      "clove",
+      "salt",
+      "turmeric",
+      "cinnamon",
+      "coriander",
+      "jeera",
+      "rice",
+      "cauliflower"
+    ],
+    "instructions": "Cook methi with chicken, clove, salt, add spices, and simmer until done."
+  },
+  {
+    "title": "Urad Dal Bhaji",
+    "image": "https://via.placeholder.com/400x200?text=Urad+Dal+Bhaji",
+    "ingredients": [
+      "red chili",
+      "kasuri methi",
+      "wheat flour",
+      "mustard seeds",
+      "dal",
+      "spinach",
+      "carrot"
+    ],
+    "instructions": "Cook urad dal with red chili, kasuri methi, wheat flour, add spices, and simmer until done."
+  },
+  {
+    "title": "Chana Masala",
+    "image": "https://via.placeholder.com/400x200?text=Chana+Masala",
+    "ingredients": [
+      "salt",
+      "ghee",
+      "wheat flour",
+      "dal",
+      "rice",
+      "peas",
+      "black pepper"
+    ],
+    "instructions": "Cook chana with salt, ghee, wheat flour, add spices, and simmer until done."
+  },
+  {
+    "title": "Toor Dal Pakora",
+    "image": "https://via.placeholder.com/400x200?text=Toor+Dal+Pakora",
+    "ingredients": [
+      "egg",
+      "cinnamon",
+      "curd",
+      "ginger",
+      "yogurt",
+      "rice",
+      "jeera"
+    ],
+    "instructions": "Cook toor dal with egg, cinnamon, curd, add spices, and simmer until done."
+  },
+  {
+    "title": "Karela Curry",
+    "image": "https://via.placeholder.com/400x200?text=Karela+Curry",
+    "ingredients": [
+      "clove",
+      "sugar",
+      "kasuri methi",
+      "salt",
+      "amchur",
+      "lemon",
+      "paneer"
+    ],
+    "instructions": "Cook karela with clove, sugar, kasuri methi, add spices, and simmer until done."
+  },
+  {
+    "title": "Chana Pakora",
+    "image": "https://via.placeholder.com/400x200?text=Chana+Pakora",
+    "ingredients": [
+      "jeera",
+      "turmeric",
+      "chicken",
+      "clove",
+      "sugar",
+      "rice",
+      "green chili"
+    ],
+    "instructions": "Cook chana with jeera, turmeric, chicken, add spices, and simmer until done."
+  },
+  {
+    "title": "Aloo Fry",
+    "image": "https://via.placeholder.com/400x200?text=Aloo+Fry",
+    "ingredients": [
+      "jaggery",
+      "kasuri methi",
+      "cinnamon",
+      "butter",
+      "turmeric",
+      "dal",
+      "black pepper",
+      "rice",
+      "tomato"
+    ],
+    "instructions": "Cook aloo with jaggery, kasuri methi, cinnamon, add spices, and simmer until done."
+  },
+  {
+    "title": "Toor Dal Bhaji",
+    "image": "https://via.placeholder.com/400x200?text=Toor+Dal+Bhaji",
+    "ingredients": [
+      "spinach",
+      "peas",
+      "turmeric",
+      "butter",
+      "green chili",
+      "mustard seeds",
+      "curd",
+      "paneer",
+      "bay leaf"
+    ],
+    "instructions": "Cook toor dal with spinach, peas, turmeric, add spices, and simmer until done."
+  },
+  {
+    "title": "Rajma Halwa",
+    "image": "https://via.placeholder.com/400x200?text=Rajma+Halwa",
+    "ingredients": [
+      "mustard seeds",
+      "peas",
+      "tomato",
+      "besan",
+      "mint",
+      "butter",
+      "spinach",
+      "coriander",
+      "bay leaf",
+      "jaggery"
+    ],
+    "instructions": "Cook rajma with mustard seeds, peas, tomato, add spices, and simmer until done."
+  },
+  {
+    "title": "Karela Masala",
+    "image": "https://via.placeholder.com/400x200?text=Karela+Masala",
+    "ingredients": [
+      "turmeric",
+      "jeera",
+      "garam masala",
+      "jaggery",
+      "carrot",
+      "hing"
+    ],
+    "instructions": "Cook karela with turmeric, jeera, garam masala, add spices, and simmer until done."
+  },
+  {
+    "title": "Baingan Biryani",
+    "image": "https://via.placeholder.com/400x200?text=Baingan+Biryani",
+    "ingredients": [
+      "cauliflower",
+      "salt",
+      "kasuri methi",
+      "mint",
+      "cinnamon",
+      "carrot",
+      "ginger",
+      "red chili"
+    ],
+    "instructions": "Cook baingan with cauliflower, salt, kasuri methi, add spices, and simmer until done."
+  },
+  {
+    "title": "Karela Biryani",
+    "image": "https://via.placeholder.com/400x200?text=Karela+Biryani",
+    "ingredients": [
+      "red chili",
+      "clove",
+      "ghee",
+      "dal",
+      "sugar",
+      "kasuri methi"
+    ],
+    "instructions": "Cook karela with red chili, clove, ghee, add spices, and simmer until done."
+  },
+  {
+    "title": "Gajar Sabzi",
+    "image": "https://via.placeholder.com/400x200?text=Gajar+Sabzi",
+    "ingredients": [
+      "sugar",
+      "peas",
+      "onion",
+      "black pepper",
+      "kasuri methi",
+      "garlic",
+      "bay leaf",
+      "red chili",
+      "besan",
+      "curd"
+    ],
+    "instructions": "Cook gajar with sugar, peas, onion, add spices, and simmer until done."
+  },
+  {
+    "title": "Rajma Tadka Dal",
+    "image": "https://via.placeholder.com/400x200?text=Rajma+Tadka+Dal",
+    "ingredients": [
+      "clove",
+      "curry leaves",
+      "garlic",
+      "cinnamon",
+      "ginger",
+      "dal",
+      "jeera"
+    ],
+    "instructions": "Cook rajma with clove, curry leaves, garlic, add spices, and simmer until done."
+  },
+  {
+    "title": "Moong Dal Gravy",
+    "image": "https://via.placeholder.com/400x200?text=Moong+Dal+Gravy",
+    "ingredients": [
+      "tamarind",
+      "coriander",
+      "green chili",
+      "onion",
+      "hing",
+      "butter",
+      "black pepper",
+      "salt"
+    ],
+    "instructions": "Cook moong dal with tamarind, coriander, green chili, add spices, and simmer until done."
+  },
+  {
+    "title": "Methi Bhaji",
+    "image": "https://via.placeholder.com/400x200?text=Methi+Bhaji",
+    "ingredients": [
+      "besan",
+      "egg",
+      "bay leaf",
+      "chicken",
+      "butter",
+      "garlic",
+      "salt",
+      "cardamom"
+    ],
+    "instructions": "Cook methi with besan, egg, bay leaf, add spices, and simmer until done."
+  },
+  {
+    "title": "Baingan Raita",
+    "image": "https://via.placeholder.com/400x200?text=Baingan+Raita",
+    "ingredients": [
+      "cream",
+      "coriander",
+      "cinnamon",
+      "spinach",
+      "chicken",
+      "ghee",
+      "carrot",
+      "tomato",
+      "capsicum",
+      "onion"
+    ],
+    "instructions": "Cook baingan with cream, coriander, cinnamon, add spices, and simmer until done."
+  },
+  {
+    "title": "Lauki Curry",
+    "image": "https://via.placeholder.com/400x200?text=Lauki+Curry",
+    "ingredients": [
+      "besan",
+      "rice",
+      "cardamom",
+      "carrot",
+      "jeera",
+      "coriander",
+      "ginger",
+      "egg"
+    ],
+    "instructions": "Cook lauki with besan, rice, cardamom, add spices, and simmer until done."
+  },
+  {
+    "title": "Rajma Tikka",
+    "image": "https://via.placeholder.com/400x200?text=Rajma+Tikka",
+    "ingredients": [
+      "yogurt",
+      "paneer",
+      "mint",
+      "ghee",
+      "garlic",
+      "mustard seeds",
+      "besan",
+      "kasuri methi"
+    ],
+    "instructions": "Cook rajma with yogurt, paneer, mint, add spices, and simmer until done."
+  },
+  {
+    "title": "Chicken Pulao",
+    "image": "https://via.placeholder.com/400x200?text=Chicken+Pulao",
+    "ingredients": [
+      "dal",
+      "spinach",
+      "wheat flour",
+      "onion",
+      "tamarind",
+      "amchur",
+      "lemon"
+    ],
+    "instructions": "Cook chicken with dal, spinach, wheat flour, add spices, and simmer until done."
+  },
+  {
+    "title": "Rajma Pakora",
+    "image": "https://via.placeholder.com/400x200?text=Rajma+Pakora",
+    "ingredients": [
+      "coriander",
+      "rice",
+      "tamarind",
+      "hing",
+      "black pepper"
+    ],
+    "instructions": "Cook rajma with coriander, rice, tamarind, add spices, and simmer until done."
+  },
+  {
+    "title": "Paneer Pulao",
+    "image": "https://via.placeholder.com/400x200?text=Paneer+Pulao",
+    "ingredients": [
+      "mustard seeds",
+      "kasuri methi",
+      "tamarind",
+      "garam masala",
+      "dal",
+      "ghee",
+      "peas",
+      "red chili",
+      "carrot"
+    ],
+    "instructions": "Cook paneer with mustard seeds, kasuri methi, tamarind, add spices, and simmer until done."
+  },
+  {
+    "title": "Mutton Chutney",
+    "image": "https://via.placeholder.com/400x200?text=Mutton+Chutney",
+    "ingredients": [
+      "lemon",
+      "peas",
+      "black pepper",
+      "onion",
+      "ghee",
+      "chicken",
+      "mint",
+      "jeera"
+    ],
+    "instructions": "Cook mutton with lemon, peas, black pepper, add spices, and simmer until done."
+  },
+  {
+    "title": "Gajar Biryani",
+    "image": "https://via.placeholder.com/400x200?text=Gajar+Biryani",
+    "ingredients": [
+      "green chili",
+      "clove",
+      "chicken",
+      "peas",
+      "curd",
+      "curry leaves",
+      "garlic",
+      "turmeric",
+      "tomato"
+    ],
+    "instructions": "Cook gajar with green chili, clove, chicken, add spices, and simmer until done."
+  },
+  {
+    "title": "Gajar Fry",
+    "image": "https://via.placeholder.com/400x200?text=Gajar+Fry",
+    "ingredients": [
+      "clove",
+      "cream",
+      "curry leaves",
+      "green chili",
+      "cardamom",
+      "jeera",
+      "chicken",
+      "carrot",
+      "egg",
+      "butter"
+    ],
+    "instructions": "Cook gajar with clove, cream, curry leaves, add spices, and simmer until done."
+  },
+  {
+    "title": "Urad Dal Raita",
+    "image": "https://via.placeholder.com/400x200?text=Urad+Dal+Raita",
+    "ingredients": [
+      "yogurt",
+      "dal",
+      "chicken",
+      "ghee",
+      "onion",
+      "besan"
+    ],
+    "instructions": "Cook urad dal with yogurt, dal, chicken, add spices, and simmer until done."
+  },
+  {
+    "title": "Gajar Tikka",
+    "image": "https://via.placeholder.com/400x200?text=Gajar+Tikka",
+    "ingredients": [
+      "ginger",
+      "butter",
+      "carrot",
+      "jeera",
+      "garam masala",
+      "red chili",
+      "black pepper"
+    ],
+    "instructions": "Cook gajar with ginger, butter, carrot, add spices, and simmer until done."
+  },
+  {
+    "title": "Mutton Masala",
+    "image": "https://via.placeholder.com/400x200?text=Mutton+Masala",
+    "ingredients": [
+      "rice",
+      "kasuri methi",
+      "chicken",
+      "butter",
+      "black pepper",
+      "lemon",
+      "paneer",
+      "mint",
+      "mustard seeds"
+    ],
+    "instructions": "Cook mutton with rice, kasuri methi, chicken, add spices, and simmer until done."
+  },
+  {
+    "title": "Moong Dal Tadka Dal",
+    "image": "https://via.placeholder.com/400x200?text=Moong+Dal+Tadka+Dal",
+    "ingredients": [
+      "mustard seeds",
+      "butter",
+      "ginger",
+      "jaggery",
+      "red chili",
+      "potato",
+      "curd",
+      "onion",
+      "wheat flour"
+    ],
+    "instructions": "Cook moong dal with mustard seeds, butter, ginger, add spices, and simmer until done."
+  },
+  {
+    "title": "Mutton Tadka Dal",
+    "image": "https://via.placeholder.com/400x200?text=Mutton+Tadka+Dal",
+    "ingredients": [
+      "capsicum",
+      "cauliflower",
+      "mustard seeds",
+      "cinnamon",
+      "amchur",
+      "tamarind",
+      "wheat flour",
+      "besan"
+    ],
+    "instructions": "Cook mutton with capsicum, cauliflower, mustard seeds, add spices, and simmer until done."
+  },
+  {
+    "title": "Rajma Pulao",
+    "image": "https://via.placeholder.com/400x200?text=Rajma+Pulao",
+    "ingredients": [
+      "yogurt",
+      "chicken",
+      "hing",
+      "carrot",
+      "mint",
+      "jaggery",
+      "cardamom",
+      "potato"
+    ],
+    "instructions": "Cook rajma with yogurt, chicken, hing, add spices, and simmer until done."
+  },
+  {
+    "title": "Chana Halwa",
+    "image": "https://via.placeholder.com/400x200?text=Chana+Halwa",
+    "ingredients": [
+      "red chili",
+      "carrot",
+      "dal",
+      "bay leaf",
+      "cinnamon",
+      "cardamom",
+      "paneer",
+      "salt"
+    ],
+    "instructions": "Cook chana with red chili, carrot, dal, add spices, and simmer until done."
+  },
+  {
+    "title": "Aloo Pulao",
+    "image": "https://via.placeholder.com/400x200?text=Aloo+Pulao",
+    "ingredients": [
+      "wheat flour",
+      "lemon",
+      "mint",
+      "clove",
+      "kasuri methi",
+      "bay leaf",
+      "garam masala",
+      "cinnamon",
+      "sugar"
+    ],
+    "instructions": "Cook aloo with wheat flour, lemon, mint, add spices, and simmer until done."
+  },
+  {
+    "title": "Chana Fry",
+    "image": "https://via.placeholder.com/400x200?text=Chana+Fry",
+    "ingredients": [
+      "mustard seeds",
+      "capsicum",
+      "clove",
+      "tamarind",
+      "rice",
+      "peas"
+    ],
+    "instructions": "Cook chana with mustard seeds, capsicum, clove, add spices, and simmer until done."
+  },
+  {
+    "title": "Methi Halwa",
+    "image": "https://via.placeholder.com/400x200?text=Methi+Halwa",
+    "ingredients": [
+      "sugar",
+      "chicken",
+      "wheat flour",
+      "lemon",
+      "tomato",
+      "cauliflower",
+      "yogurt",
+      "spinach"
+    ],
+    "instructions": "Cook methi with sugar, chicken, wheat flour, add spices, and simmer until done."
+  },
+  {
+    "title": "Moong Dal Chutney",
+    "image": "https://via.placeholder.com/400x200?text=Moong+Dal+Chutney",
+    "ingredients": [
+      "ginger",
+      "tomato",
+      "chicken",
+      "bay leaf",
+      "curry leaves",
+      "potato",
+      "cauliflower"
+    ],
+    "instructions": "Cook moong dal with ginger, tomato, chicken, add spices, and simmer until done."
+  },
+  {
+    "title": "Toor Dal Halwa",
+    "image": "https://via.placeholder.com/400x200?text=Toor+Dal+Halwa",
+    "ingredients": [
+      "curd",
+      "hing",
+      "mustard seeds",
+      "ghee",
+      "peas",
+      "tomato",
+      "clove",
+      "potato"
+    ],
+    "instructions": "Cook toor dal with curd, hing, mustard seeds, add spices, and simmer until done."
+  },
+  {
+    "title": "Moong Dal Sabzi",
+    "image": "https://via.placeholder.com/400x200?text=Moong+Dal+Sabzi",
+    "ingredients": [
+      "ghee",
+      "cardamom",
+      "jeera",
+      "butter",
+      "salt",
+      "sugar",
+      "cinnamon"
+    ],
+    "instructions": "Cook moong dal with ghee, cardamom, jeera, add spices, and simmer until done."
+  },
+  {
+    "title": "Methi Masala",
+    "image": "https://via.placeholder.com/400x200?text=Methi+Masala",
+    "ingredients": [
+      "jeera",
+      "lemon",
+      "curd",
+      "dal",
+      "cinnamon",
+      "red chili"
+    ],
+    "instructions": "Cook methi with jeera, lemon, curd, add spices, and simmer until done."
+  },
+  {
+    "title": "Moong Dal Halwa",
+    "image": "https://via.placeholder.com/400x200?text=Moong+Dal+Halwa",
+    "ingredients": [
+      "bay leaf",
+      "clove",
+      "mint",
+      "jeera",
+      "capsicum",
+      "curry leaves",
+      "red chili",
+      "cauliflower",
+      "black pepper",
+      "tamarind"
+    ],
+    "instructions": "Cook moong dal with bay leaf, clove, mint, add spices, and simmer until done."
+  },
+  {
+    "title": "Bhindi Tikka",
+    "image": "https://via.placeholder.com/400x200?text=Bhindi+Tikka",
+    "ingredients": [
+      "chicken",
+      "potato",
+      "amchur",
+      "sugar",
+      "onion",
+      "egg",
+      "yogurt",
+      "cardamom",
+      "garam masala"
+    ],
+    "instructions": "Cook bhindi with chicken, potato, amchur, add spices, and simmer until done."
+  },
+  {
+    "title": "Methi Chutney",
+    "image": "https://via.placeholder.com/400x200?text=Methi+Chutney",
+    "ingredients": [
+      "ginger",
+      "jaggery",
+      "potato",
+      "salt",
+      "tamarind",
+      "cinnamon",
+      "green chili",
+      "bay leaf",
+      "capsicum"
+    ],
+    "instructions": "Cook methi with ginger, jaggery, potato, add spices, and simmer until done."
+  },
+  {
+    "title": "Bhindi Paratha",
+    "image": "https://via.placeholder.com/400x200?text=Bhindi+Paratha",
+    "ingredients": [
+      "paneer",
+      "green chili",
+      "cauliflower",
+      "chicken",
+      "yogurt",
+      "ginger",
+      "tomato",
+      "bay leaf",
+      "butter"
+    ],
+    "instructions": "Cook bhindi with paneer, green chili, cauliflower, add spices, and simmer until done."
+  },
+  {
+    "title": "Toor Dal Sabzi",
+    "image": "https://via.placeholder.com/400x200?text=Toor+Dal+Sabzi",
+    "ingredients": [
+      "cream",
+      "tomato",
+      "ghee",
+      "mustard seeds",
+      "ginger",
+      "cinnamon",
+      "wheat flour"
+    ],
+    "instructions": "Cook toor dal with cream, tomato, ghee, add spices, and simmer until done."
+  },
+  {
+    "title": "Palak Chutney",
+    "image": "https://via.placeholder.com/400x200?text=Palak+Chutney",
+    "ingredients": [
+      "cardamom",
+      "cauliflower",
+      "mustard seeds",
+      "ghee",
+      "yogurt",
+      "butter"
+    ],
+    "instructions": "Cook palak with cardamom, cauliflower, mustard seeds, add spices, and simmer until done."
+  },
+  {
+    "title": "Paneer Masala",
+    "image": "https://via.placeholder.com/400x200?text=Paneer+Masala",
+    "ingredients": [
+      "cinnamon",
+      "amchur",
+      "turmeric",
+      "potato",
+      "carrot"
+    ],
+    "instructions": "Cook paneer with cinnamon, amchur, turmeric, add spices, and simmer until done."
+  },
+  {
+    "title": "Moong Dal Pakora",
+    "image": "https://via.placeholder.com/400x200?text=Moong+Dal+Pakora",
+    "ingredients": [
+      "butter",
+      "hing",
+      "bay leaf",
+      "cardamom",
+      "peas",
+      "mint",
+      "onion",
+      "jeera"
+    ],
+    "instructions": "Cook moong dal with butter, hing, bay leaf, add spices, and simmer until done."
+  },
+  {
+    "title": "Karela Sabzi",
+    "image": "https://via.placeholder.com/400x200?text=Karela+Sabzi",
+    "ingredients": [
+      "hing",
+      "coriander",
+      "rice",
+      "peas",
+      "clove"
+    ],
+    "instructions": "Cook karela with hing, coriander, rice, add spices, and simmer until done."
+  },
+  {
+    "title": "Methi Paratha",
+    "image": "https://via.placeholder.com/400x200?text=Methi+Paratha",
+    "ingredients": [
+      "capsicum",
+      "ghee",
+      "spinach",
+      "besan",
+      "black pepper",
+      "tamarind",
+      "dal",
+      "potato"
+    ],
+    "instructions": "Cook methi with capsicum, ghee, spinach, add spices, and simmer until done."
+  },
+  {
+    "title": "Chicken Gravy",
+    "image": "https://via.placeholder.com/400x200?text=Chicken+Gravy",
+    "ingredients": [
+      "red chili",
+      "dal",
+      "yogurt",
+      "kasuri methi",
+      "wheat flour",
+      "garam masala"
+    ],
+    "instructions": "Cook chicken with red chili, dal, yogurt, add spices, and simmer until done."
+  },
+  {
+    "title": "Karela Bhaji",
+    "image": "https://via.placeholder.com/400x200?text=Karela+Bhaji",
+    "ingredients": [
+      "tomato",
+      "carrot",
+      "garam masala",
+      "amchur",
+      "mustard seeds",
+      "cardamom"
+    ],
+    "instructions": "Cook karela with tomato, carrot, garam masala, add spices, and simmer until done."
+  },
+  {
+    "title": "Palak Bhaji",
+    "image": "https://via.placeholder.com/400x200?text=Palak+Bhaji",
+    "ingredients": [
+      "bay leaf",
+      "paneer",
+      "jaggery",
+      "cauliflower",
+      "ginger",
+      "cardamom"
+    ],
+    "instructions": "Cook palak with bay leaf, paneer, jaggery, add spices, and simmer until done."
+  },
+  {
+    "title": "Chicken Tikka",
+    "image": "https://via.placeholder.com/400x200?text=Chicken+Tikka",
+    "ingredients": [
+      "black pepper",
+      "jeera",
+      "cardamom",
+      "mint",
+      "mustard seeds"
+    ],
+    "instructions": "Cook chicken with black pepper, jeera, cardamom, add spices, and simmer until done."
+  },
+  {
+    "title": "Karela Tadka Dal",
+    "image": "https://via.placeholder.com/400x200?text=Karela+Tadka+Dal",
+    "ingredients": [
+      "black pepper",
+      "capsicum",
+      "turmeric",
+      "cream",
+      "cauliflower",
+      "kasuri methi",
+      "mustard seeds",
+      "butter"
+    ],
+    "instructions": "Cook karela with black pepper, capsicum, turmeric, add spices, and simmer until done."
+  }
+]

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Local Recipe Finder</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <img src="assets/logo.png" alt="Recipe Finder Logo" class="logo">
+    <h1>Local Recipe Finder <span>🍲</span></h1>
+    <p>Find delicious recipes using ingredients you already have!</p>
+  </header>
+
+  <main class="container">
+    <div class="search-box">
+      <input type="text" id="ingredientsInput" placeholder="e.g. tomato, onion, cheese">
+      <button onclick="findRecipes()">Find Recipes</button>
+    </div>
+
+    <div id="recipes" class="recipe-list"></div>
+  </main>
+
+
+
+  <script src="script.js"></script>
+</body>
+</html>
